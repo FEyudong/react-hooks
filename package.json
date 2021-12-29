@@ -1,6 +1,6 @@
 {
-  "name": "react-hooks",
-  "version": "0.2.0",
+  "name": "zyd-react-hooks",
+  "version": "0.0.2",
   "description": "LBG reacthooks集合",
   "main": "lib/index.js",
   "module": "es/index.js",

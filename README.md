@@ -1,13 +1,10 @@
-
-LBG Hooks
-## 开发
+react Hooks
+## 安装
 ### 编译发包
 ```
-npm run build
+npm i zyd-react-hooks
 ```
-```
-npm publish
-```
+
 ## 使用文档
 
 ### **useAntdTable** 
