@@ -14,7 +14,7 @@ const config = {
     { 
       dir: 'lib',  
       format: 'cjs', 
-      name: 'lbgHooks', // 打包后的全局变量，如浏览器端 window.lbgHooks
+      name: 'ReactHooks',
       globals:{
         "react":"React",
         "antd":"Antd"
