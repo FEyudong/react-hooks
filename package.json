@@ -1,5 +1,5 @@
 {
-  "name": "lbg-hooks",
+  "name": "react-hooks",
   "version": "0.2.0",
   "description": "LBG reacthooks集合",
   "main": "lib/index.js",
